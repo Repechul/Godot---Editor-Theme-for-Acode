@@ -15,7 +15,7 @@ A custom editor theme plugin for **Acode** that accurately replicates the defaul
 ## ⚙️ Recommended Setup & Compatibility
 
 > [!IMPORTANT]
-> **Best Paired With**: This theme is specifically tailored to work best alongside **[Godot - GDScript Support DX](https://github.com/Repechul)**.
+> **Best Paired With**: This theme is specifically tailored to work best alongside **[Godot - GDScript Support DX](https://github.com/Repechul/Acode-Plugin---Godot-GDScript-Support-DX)**.
 > 
 > Due to differences in how syntax tokens and scopes are parsed by various third-party Godot extensions, using this theme with other GDScript/Godot plugins for Acode may lead to mismatched colors or incomplete highlighting.
 
@@ -31,7 +31,12 @@ A custom editor theme plugin for **Acode** that accurately replicates the defaul
 
 ---
 
-## 🐛 Have a Bug or Issue?
+## 🔗 Links
+
+- **GitHub Repository**: [Repechul/Godot---Editor-Theme-for-Acode](https://github.com/Repechul/Godot---Editor-Theme-for-Acode)
+
+
+- **Have a Bug or Issue?**
 
 If you encounter any missing syntax highlighting, color inconsistencies, UI bugs, or have feature requests, please feel free to open an issue!
 
@@ -39,13 +44,6 @@ If you encounter any missing syntax highlighting, color inconsistencies, UI bugs
 
 ---
 
-## 🔗 Links
-
-- **GitHub Repository**: [Repechul/Godot---Editor-Theme-for-Acode](https://github.com/Repechul/Godot---Editor-Theme-for-Acode)
-- **Report Issues**: [Issue Tracker](https://github.com/Repechul/Godot---Editor-Theme-for-Acode/issues)
-
----
-
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Repechul/Godot---Editor-Theme-for-Acode/refs/heads/main/LICENCE).
