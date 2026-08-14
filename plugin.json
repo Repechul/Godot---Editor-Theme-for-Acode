@@ -1,0 +1,33 @@
+{
+  "id": "acode.plugin.repechul.godot.editortheme",
+  "name": "Godot - Editor Theme",
+  "main": "main.js",
+  "version": "0.1.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 292,
+  "price": 0,
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "godot",
+    "godot engine",
+    "godot theme",
+    "gdscript",
+    "editor theme",
+    "ace",
+    "codemirror",
+    "codemirror6",
+    "syntax highlighting",
+    "colors"
+  ],
+  "changelogs": "changelogs.md",
+  "author": {
+    "name": "Repechul",
+    "email": "repechuldev@gmail.com",
+    "url": "",
+    "github": "repechul"
+  },
+  "repository": "https://github.com/Repechul/Godot---Editor-Theme-for-Acode"
+}
